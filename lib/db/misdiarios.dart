@@ -22,6 +22,7 @@ class DatabaseHelper {
       path,
       version: 1,
       onCreate: _onCreate,
+      
     );
   }
 
